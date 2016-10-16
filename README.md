@@ -10,7 +10,7 @@
 Is contributed by <a href="http://www.tquilaanz.com/">Tquila ANZ team</a>. It is used in lightning experience. When the classic
 Salesforce.com is on, opportunity products can be added as a bulk way. However, in lightning experience(winter 17), bulk creating
 opportunity products is not available yet. Thus, it is worthwhile to share the Opportunity Products Adder Lightning components so that
-bulking creating opportunity products becoming possible in current Lightning experience.
+bulking creating opportunity products becoming possible in current Lightning experience.1
 
 #Steps for set up
 (in lightning experience)
